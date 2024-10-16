@@ -26,6 +26,7 @@
     display: flex;
     flex-direction: row;
     color: var(--main-text-color);
+    text-decoration: none;
 }
 
 #bio-container{
